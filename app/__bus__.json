@@ -1,0 +1,9 @@
+{
+  "BusUtilsClass": "com.blankj.utilcode.util.BusUtils",
+  "rightBus": {
+    "app_user_login": [
+      "{ desc: com.ytlz.baseproject.view.activity.LoginActivity#setLoginData() }"
+    ]
+  },
+  "wrongBus": {}
+}
